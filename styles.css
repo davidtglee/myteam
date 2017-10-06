@@ -1,0 +1,29 @@
+.navbar-dark .navbar-brand {
+  color: red;
+}
+
+.jumbotron{
+  background-image: url(FCB2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:top;
+}
+
+.col img {
+  height: 300px;
+}
+
+.jumbotron img {
+  height: 250px;
+}
+
+.display-3 {
+  color: white;
+    font-weight: bold;
+}
+
+.lead {
+  color: skyblue;
+  font-style: oblique;
+  font-weight: bold;
+}
